@@ -1,0 +1,277 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V2312.5001
+! INFO-      
+! INFO-     Start of Translation: 6-MAR-2026  3:01:50 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\Pruzz-Lee_Print.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      KiCad electronic assembly
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        Pruzz-Lee_Print.step
+! SUMMARY-  Date             2026-03-04T17:25:58
+! SUMMARY-  Author           Pcbnew
+! SUMMARY-  Organization     Kicad
+! SUMMARY-  Pre_Version      Open CASCADE STEP processor 7.9
+! SUMMARY-  Orig_System      KiCad to STEP converter
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:     13
+! SUMMARY-  advanced_face ..............................................:   6040
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis1_placement ............................................:      4
+! SUMMARY-  axis2_placement_3d .........................................:   9178
+! SUMMARY-  b_spline_curve_with_knots ..................................:     30
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:     12
+! SUMMARY-  b_spline_surface_with_knots ................................:     20
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      4
+! SUMMARY-  brep_with_voids ............................................:      2
+! SUMMARY-  cartesian_point ............................................:  29904
+! SUMMARY-  circle .....................................................:   3118
+! SUMMARY-  closed_shell ...............................................:    451
+! SUMMARY-  context_dependent_shape_representation .....................:     47
+! SUMMARY-  cylindrical_surface ........................................:   1436
+! SUMMARY-  direction ..................................................:  29323
+! SUMMARY-  edge_curve .................................................:  14119
+! SUMMARY-  edge_loop ..................................................:   7848
+! SUMMARY-  face_bound .................................................:   7848
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     19
+! SUMMARY-  item_defined_transformation ................................:     47
+! SUMMARY-  length_unit_and_si_unit ....................................:     19
+! SUMMARY-  line .......................................................:  10963
+! SUMMARY-  manifold_solid_brep ........................................:    447
+! SUMMARY-  next_assembly_usage_occurrence .............................:     47
+! SUMMARY-  oriented_closed_shell ......................................:      2
+! SUMMARY-  oriented_edge ..............................................:  28238
+! SUMMARY-  plane ......................................................:   4570
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     19
+! SUMMARY-  product ....................................................:     19
+! SUMMARY-  product_context ............................................:     19
+! SUMMARY-  product_definition .........................................:     19
+! SUMMARY-  product_definition_context .................................:     19
+! SUMMARY-  product_definition_formation ...............................:     19
+! SUMMARY-  product_definition_shape ...................................:     66
+! SUMMARY-  product_related_product_category ...........................:     19
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:     47
+! SUMMARY-  shape_representation .......................................:      6
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     19
+! SUMMARY-  surface_of_revolution ......................................:      4
+! SUMMARY-  toroidal_surface ...........................................:      6
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     19
+! SUMMARY-  vector .....................................................:  10963
+! SUMMARY-  vertex_point ...............................................:   9315
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         174328
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 6-MAR-2026 3:01:51 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:01:57 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\Pruzz-Lee_Print_PCB
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:01:58 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\Pruzz-Lee_Print_via
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:   122
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            122
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:01:58 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\Pruzz-Lee_Print_copper
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:   307
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            307
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:00 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\RaspberryPi_Pico_Header_DIP-40_H2.54mm_KiCad
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:00 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\RaspberryPi_Pico_H_Module_KiCad
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:00 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:00 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\Pruzz-Lee_Print 1.20.1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     7
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:00 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\D_DO-201AD_P15.24mm_Horizontal
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:00 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\SW_DIP_SPSTx12_Slide_9.78x32.66mm_W7.62mm_P2.54mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:01 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\C_Radial_D8.0mm_H11.5mm_P3.50mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:01 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\C_Radial_D10.0mm_H12.5mm_P5.00mm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:01 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\C_1812_4532Metric
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:01 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\C_0805_2012Metric
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:01 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\PinSocket_2x20_P2.54mm_Vertical
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:01 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\R_0805_2012Metric
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:01 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\D_SMA
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:01 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\RaspberryPi_Pico_H
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:02 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\TO-263-5_TabPin3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 6-MAR-2026  3:02:02 PM
+! INFO-     Filing Part ..: C:\Users\Besitzer\Documents\GitHub\Pren1818\Print\Pruzz-Lee_Print_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    44
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             44
+! INFO-      
+! INFO-     Total number of solids input for this translation       :       449
+! INFO-      
+! INFO-     Number of solids created without body validation faults :       449
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 6-MAR-2026  3:02:02 PM
+! INFO-      
