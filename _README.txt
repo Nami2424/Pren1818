@@ -5,6 +5,6 @@ CAD
 Hauptbaugruppe: Linearantrieb_bg.prt
 
 
-Für die nicht CAD'ler:innen 
----------------------------
+Ohne Siemens NX
+---------------
 Die Baugruppe kann im File Roboter_3Dansicht.pdf mit Adobe Acrobat Reader angesehen werden. 
